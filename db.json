@@ -1,0 +1,24 @@
+{
+  "posts": [
+{
+"id":1,
+"name":"IGNACIO",
+"age":41
+},
+{
+"id":2,
+"name":"Patrick",
+"age":8
+},
+{
+"id":3,
+"name":"Montserrat"
+}
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+
+
