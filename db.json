@@ -1,5 +1,9 @@
 {
-  "posts": [
+  "posts": {
+    "name": "IGNACIO"
+  }
+,
+  "profile": [
 {
 "id":1,
 "name":"IGNACIO",
@@ -14,10 +18,7 @@
 "id":3,
 "name":"Montserrat"
 }
-],
-  "profile": {
-    "name": "typicode"
-  }
+]
 }
 
 
