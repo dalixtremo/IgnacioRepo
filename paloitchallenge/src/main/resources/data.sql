@@ -1,0 +1,12 @@
+
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Carpenter', 'Pamela', '1978-01-25', 'pcarpenterj@china.com.cn', 'United States', '661 Karstens Road', 'HI', '6-(268)816-2465');
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Carpenter', 'Paul', '1978-01-21', 'pcarpenter28@dropbox.com', 'Philippines', '33614 Cambridge Road', '', '3-(561)990-7094');
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Carter', 'Tammy', '1978-01-22', 'tcarter1j@washington.edu', 'United States', '3 Leroy Crossing', 'TN', '7-(489)865-7002');
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Carter', 'Paul', '1978-01-23', 'pcarter1z@cnet.com', 'United States', '3 Green Plaza', 'CA', '3-(854)158-1783');
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Chapman', 'Justin', '1978-01-24', 'jchapmans@aol.com', 'United States', '2127 David Lane', 'WV', '1-(910)152-0295');
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Chapman', 'Margaret', '1978-01-25', 'mchapmanb@hud.gov', 'Canada', '953 Reindahl Parkway', '', '1-(010)495-9996');
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Clark', 'Bonnie', '1978-01-26', 'bclark6@bing.com', 'United States', '4 Porter Avenue', 'CO', '9-(524)812-6248');
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Clark', 'Andrea', '1978-01-25', 'aclark2j@sphinn.com', 'United States', '02 Haas Park', 'MI', '1-(123)323-9494');
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Coleman', 'Shirley', '1978-01-25', 'scoleman26@bizjournals.com', 'United States', '4903 Commercial Drive', 'AL', '7-(798)598-1459');
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Coleman', 'Angela', '1978-01-26', 'acoleman6@gmpg.org', 'Russia', '1208 Menomonie Terrace', '', '9-(959)063-5551');
+INSERT INTO EMPLOYEE (LAST_NAME, FIRST_NAME, DOB, EMAIL_ADDRESS, COUNTRY, ADDRESS, STATE, TELEPHONE) VALUES('Cox', 'Harold', '1978-01-25', 'hcox23@dyndns.org', 'France', '08 Butterfield Place', 'B5', '6-(983)957-3202');
